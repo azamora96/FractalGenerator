@@ -1,10 +1,3 @@
-– Project Title and Description: Explain the purpose and objectives of your project.
-– Installation Instructions: Include steps to run the project locally.
-– Usage Instructions: Provide example commands, inputs, or screenshots.
-– Features and Technology Stack: List technologies and any notable features.
-– Author Information: Include your name and contact (LinkedIn or email).
-
-
 Fractal Generator:
 - This was a project to demonstrate some of the skills we learned in my first coding class, an introduction to Python.
 - Our program allows you to generate two different types of fractals through using an external library.
